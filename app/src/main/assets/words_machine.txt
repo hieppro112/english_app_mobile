@@ -1,0 +1,100 @@
+⚙️|gear|/ɡɪr/|n.|bánh răng|Check the gear for broken teeth.|Kiểm tra bánh răng xem có răng nào bị gãy không.|Đọc gần giống "gia" — bánh răng "gia" tốc cho máy chạy nhanh hơn.
+🔘|bearing|/ˈberɪŋ/|n.|ổ bi, vòng bi|The bearing is making a strange noise.|Vòng bi đang phát ra tiếng kêu lạ.|"Bear" = chịu đựng — vòng bi chịu cả sức nặng trục quay.
+🥢|shaft|/ʃæft/|n.|trục|The motor turns the main shaft.|Động cơ làm quay trục chính.|Đọc gần "sáp" — cây trục dài thẳng như thỏi sáp.
+🔩|bolt|/boʊlt/|n.|bu lông|Tighten every bolt on the frame.|Siết chặt mọi bu lông trên khung.|"Bolt" đọc như "bâu-t" — bu lông "bâu" chặt hai tấm thép.
+🌰|nut|/nʌt/|n.|đai ốc, ê cu|Put a nut on the end of the bolt.|Lắp đai ốc vào đầu bu lông.|"Nut" = hạt dẻ — đai ốc nhỏ tròn như hạt, ôm lấy bu lông.
+🪛|screw|/skruː/|n.|ốc vít|This screw is too short for the panel.|Con vít này quá ngắn so với tấm panel.|Đọc "s-cru" — vít "xoắn cru cru" chui vào gỗ.
+⭕|washer|/ˈwɑːʃər/|n.|vòng đệm, long đền|Always use a washer under the nut.|Luôn dùng long đền dưới đai ốc.|"Wash" = rửa — long đền tròn như cái chậu rửa mini lót dưới ốc.
+🌀|spring|/sprɪŋ/|n.|lò xo|The spring pushes the valve closed.|Lò xo đẩy van đóng lại.|"Spring" cũng là mùa xuân — lò xo bật nảy tưng bừng như mùa xuân.
+🔌|motor|/ˈmoʊtər/|n.|động cơ, mô tơ|The motor stopped because of overload.|Động cơ dừng vì quá tải.|Đọc gần "mô tơ" — y hệt tiếng Việt!
+⛽|pump|/pʌmp/|n.|máy bơm|Start the pump to move the water.|Khởi động máy bơm để chuyển nước.|Đọc "pâm" như tiếng "bơm" — bơm "pâm pâm" đẩy nước đi.
+🚰|valve|/vælv/|n.|van|Open the valve slowly.|Mở van từ từ.|Đọc gần "van-vơ" — vặn van "vơ" vẩn là nước phun tung tóe.
+🛢️|cylinder|/ˈsɪlɪndər/|n.|xi lanh|The air cylinder moves the arm forward.|Xi lanh khí đẩy cánh tay về phía trước.|Đọc "xi-lin-đơ" — gần như "xi lanh" tiếng Việt.
+💉|piston|/ˈpɪstən/|n.|pít tông|The piston moves up and down.|Pít tông di chuyển lên xuống.|Đọc "pít-tần" — giống hệt "pít tông", nhấp nhô như ống tiêm.
+🪵|lathe|/leɪð/|n.|máy tiện|He turns the shaft on the lathe.|Anh ấy tiện trục trên máy tiện.|Đọc "lây-đ" — phôi quay "lây lất" cả ngày trên máy tiện.
+🔨|drill|/drɪl/|n.|máy khoan, mũi khoan|Use a 6 mm drill for this hole.|Dùng mũi khoan 6 mm cho lỗ này.|Đọc "đril" — tiếng khoan kêu "đrrrril" xuyên qua thép.
+👨‍🏭|weld|/weld/|v.|hàn|Weld the two plates together.|Hàn hai tấm thép lại với nhau.|"Weld" gần "well-done" — mối hàn chín kỹ, chắc chắn.
+🛢|lubricate|/ˈluːbrɪkeɪt/|v.|bôi trơn|Lubricate the chain every week.|Bôi trơn xích mỗi tuần.|"Lube" = dầu nhờn — "lú" vì trơn quá, trượt "bờ-ri" cả ngày.
+🔄|torque|/tɔːrk/|n.|mô-men xoắn|Set the wrench to the correct torque.|Đặt cờ lê đúng mô-men xoắn.|Đọc "tót" — vặn mạnh "tót" một cái là ra lực xoắn.
+📦|conveyor|/kənˈveɪər/|n.|băng tải|Boxes move along the conveyor.|Các thùng hàng chạy dọc băng tải.|"Convey" = chuyển đi — băng tải "con vây" hàng chạy vòng quanh xưởng.
+📡|sensor|/ˈsensər/|n.|cảm biến|The sensor detects the part.|Cảm biến phát hiện chi tiết.|"Sense" = cảm nhận — sensor là "giác quan" của máy.
+🧰|maintenance|/ˈmeɪntənəns/|n.|bảo trì, bảo dưỡng|Maintenance is scheduled for Friday.|Bảo trì được lên lịch vào thứ Sáu.|"Maintain" = duy trì — bảo trì để máy "mến tình" chạy mãi.
+📏|tolerance|/ˈtɑːlərəns/|n.|dung sai|The tolerance is plus or minus 0.05 mm.|Dung sai là cộng trừ 0,05 mm.|"Tolerate" = chịu đựng — dung sai là mức sai lệch "chịu được".
+➰|belt|/belt/|n.|dây curoa|The belt is loose and slipping.|Dây curoa bị lỏng và trượt.|"Belt" = thắt lưng — dây curoa là "thắt lưng" quấn quanh puly.
+🎡|pulley|/ˈpʊli/|n.|puly, ròng rọc|Replace the worn pulley.|Thay puly bị mòn.|Đọc "pu-li" — gần y hệt "puly" tiếng Việt.
+⛓️|chain|/tʃeɪn/|n.|xích|The chain drives the rear wheel.|Xích truyền động cho bánh sau.|Đọc "chên" — xích "chen" chúc từng mắt nối nhau.
+🔧|wrench|/rentʃ/|n.|cờ lê|Hand me the 12 mm wrench.|Đưa tôi cái cờ lê 12 mm.|Đọc "ren-ch" — cờ lê vặn "ren" ốc kêu "ch" một tiếng.
+🔨|hammer|/ˈhæmər/|n.|búa|Don't hit the bearing with a hammer.|Đừng đập búa vào vòng bi.|Đọc "hem-mờ" — búa nện mạnh đến "mờ" cả mắt.
+🦀|pliers|/ˈplaɪərz/|n.|kìm|Use pliers to bend the wire.|Dùng kìm để uốn dây.|Đọc "plai-ơz" — kìm kẹp như càng cua "plai" chặt.
+🪛|screwdriver|/ˈskruːdraɪvər/|n.|tua vít|I need a Phillips screwdriver.|Tôi cần một cái tua vít bake.|Screw (vít) + driver (người lái) — "tài xế" lái con vít vào.
+🗜️|vise|/vaɪs/|n.|ê tô|Hold the part tightly in the vise.|Kẹp chặt chi tiết trong ê tô.|Đọc "vai-s" — ê tô kẹp chặt như hai "vai" ép lại.
+💥|grinder|/ˈɡraɪndər/|n.|máy mài|Wear glasses when using the grinder.|Đeo kính khi dùng máy mài.|"Grind" = nghiền — máy mài "gờ-rai" tóe lửa tung tóe.
+🏭|milling|/ˈmɪlɪŋ/|n.|phay|Milling makes the surface flat.|Phay làm bề mặt phẳng.|"Mill" = cối xay — dao phay quay như cối xay ăn kim loại.
+✂️|cutter|/ˈkʌtər/|n.|dao cắt|The cutter is dull, change it.|Dao cắt bị cùn, hãy thay đi.|"Cut" = cắt — "cắt-tơ" là thứ đi cắt.
+🔪|blade|/bleɪd/|n.|lưỡi dao|Be careful, the blade is sharp.|Cẩn thận, lưỡi dao rất sắc.|Đọc "blây-đ" — lưỡi dao sắc "bay đầu" luôn!
+🧵|spindle|/ˈspɪndl/|n.|trục chính|The spindle speed is 3000 rpm.|Tốc độ trục chính là 3000 vòng/phút.|Đọc "xpin-đồ" — trục "xoay-pin" quay vù vù.
+🌀|chuck|/tʃʌk/|n.|mâm cặp|Lock the part in the chuck.|Khóa chi tiết vào mâm cặp.|Đọc "chắc" — mâm cặp giữ phôi thật "chắc".
+🗜|clamp|/klæmp/|n.|kẹp|Use a clamp to hold the board.|Dùng kẹp để giữ tấm ván.|Đọc "cờ-lămp" — kẹp "lăm" chặt lại không cho xê dịch.
+🧩|fixture|/ˈfɪkstʃər/|n.|đồ gá|The fixture holds the part in place.|Đồ gá giữ chi tiết đúng vị trí.|"Fix" = cố định — fixture là thứ cố định chi tiết.
+📐|jig|/dʒɪɡ/|n.|đồ gá dẫn hướng|This jig guides the drill.|Đồ gá này dẫn hướng mũi khoan.|Đọc "dzích" — jig chỉ đường cho mũi khoan đi "zích zắc" đúng chỗ.
+🧁|mold|/moʊld/|n.|khuôn|The plastic is injected into the mold.|Nhựa được phun vào khuôn.|Đọc "mâu-đ" — đổ vào khuôn ra "mẫu" giống hệt nhau.
+🎲|die|/daɪ/|n.|khuôn dập|The die cuts the metal sheet.|Khuôn dập cắt tấm kim loại.|Đọc "đai" — khuôn dập ép mạnh như "đai" thép siết lại.
+🏋️|press|/pres/|n.|máy ép, máy dập|Keep your hands away from the press.|Giữ tay tránh xa máy dập.|Đọc "pờ-rét" — máy ép nghiến "rét" một cái là bẹp.
+💧|hydraulic|/haɪˈdrɔːlɪk/|adj.|thủy lực|Check the hydraulic oil level.|Kiểm tra mức dầu thủy lực.|"Hydro" = nước — thủy lực dùng chất lỏng để đẩy.
+💨|pneumatic|/nuːˈmætɪk/|adj.|khí nén|This is a pneumatic tool.|Đây là dụng cụ khí nén.|Chữ "p" câm, đọc "nu-mát" — khí nén thổi "mát" rượi.
+🎈|compressor|/kəmˈpresər/|n.|máy nén khí|Turn on the air compressor.|Bật máy nén khí.|"Compress" = nén — "com-pres" nén không khí lại.
+🐍|hose|/hoʊz/|n.|ống mềm, vòi|The air hose is leaking.|Ống khí bị rò rỉ.|Đọc "hâu-z" — ống mềm uốn éo như con rắn.
+🪈|pipe|/paɪp/|n.|ống, đường ống|Water flows through this pipe.|Nước chảy qua đường ống này.|Đọc "pai-p" — tẩu thuốc "pipe" cũng là cái ống.
+🔗|fitting|/ˈfɪtɪŋ/|n.|khớp nối ống, đầu nối|Replace the broken pipe fitting.|Thay đầu nối ống bị hỏng.|"Fit" = vừa khít — đầu nối giúp hai ống khớp vừa khít.
+🍩|gasket|/ˈɡæskɪt/|n.|gioăng, đệm kín|A new gasket stops the oil leak.|Gioăng mới chặn rò rỉ dầu.|Đọc "ga-xkít" — gioăng ép "kít" lại, ga không thoát ra.
+🦭|seal|/siːl/|n.|phớt, vòng làm kín|The oil seal is damaged.|Phớt dầu bị hỏng.|"Seal" = hải cẩu — hải cẩu bịt kín lỗ không cho dầu chảy.
+💦|leak|/liːk/|n.|sự rò rỉ|There is an oil leak under the machine.|Có rò rỉ dầu dưới máy.|Đọc "lích" — dầu rỉ "lích rích" từng giọt.
+🟤|rust|/rʌst/|n.|gỉ sét|Remove the rust before painting.|Loại bỏ gỉ sét trước khi sơn.|Đọc "rất-st" — để ngoài mưa là gỉ "rất" nhanh.
+🧪|corrosion|/kəˈroʊʒn/|n.|sự ăn mòn|Salt water causes corrosion.|Nước mặn gây ăn mòn.|"Corrode" = gặm mòn — "cò rồ" gặm sắt từng chút.
+👟|wear|/wer/|n.|sự mài mòn|Check the belt for wear.|Kiểm tra dây curoa xem có mòn không.|"Wear" = mặc — giày mặc lâu thì mòn, chi tiết chạy lâu cũng mòn.
+🔥|friction|/ˈfrɪkʃn/|n.|ma sát|Friction makes the parts hot.|Ma sát làm các chi tiết nóng lên.|Đọc "phríc-sần" — xoa tay "sần sật" là ra nhiệt ma sát.
+📳|vibration|/vaɪˈbreɪʃn/|n.|sự rung động|Too much vibration means a problem.|Rung quá nhiều nghĩa là có vấn đề.|"Vibrate" = rung — điện thoại để chế độ "vibrate" rung bần bật.
+🔊|noise|/nɔɪz/|n.|tiếng ồn|Report any unusual noise.|Báo cáo bất kỳ tiếng ồn bất thường nào.|Đọc "noi-z" — máy ồn quá "nói" không ai nghe.
+🌡️|overheat|/ˌoʊvərˈhiːt/|v.|quá nhiệt|The motor will overheat without cooling.|Động cơ sẽ quá nhiệt nếu không làm mát.|Over (vượt quá) + heat (nhiệt) = quá nhiệt.
+🧊|coolant|/ˈkuːlənt/|n.|dung dịch làm mát|Fill the tank with coolant.|Đổ đầy dung dịch làm mát vào bồn.|"Cool" = mát — coolant làm máy "cool" lại.
+🧈|grease|/ɡriːs/|n.|mỡ bôi trơn|Apply grease to the bearing.|Tra mỡ vào vòng bi.|Đọc "gờ-rít" — thiếu mỡ là máy kêu "rít rít".
+🛢️|oil|/ɔɪl/|n.|dầu|Change the oil every 500 hours.|Thay dầu mỗi 500 giờ.|Đọc "oi-l" — dầu nóng "oi" bức trong động cơ.
+🫖|filter|/ˈfɪltər/|n.|bộ lọc|Clean the air filter weekly.|Vệ sinh lọc gió hàng tuần.|Đọc "phin-tơ" — giống "phin" cà phê, lọc lấy phần sạch.
+🔍|inspect|/ɪnˈspekt/|v.|kiểm tra|Inspect the machine before starting.|Kiểm tra máy trước khi khởi động.|In (vào trong) + spect (nhìn) — nhìn kỹ vào bên trong.
+📏|measure|/ˈmeʒər/|v.|đo|Measure the length of the shaft.|Đo chiều dài của trục.|Đọc "me-giơ" — "mẹ giơ" thước lên đo.
+🦞|caliper|/ˈkælɪpər/|n.|thước cặp|Use a caliper to check the diameter.|Dùng thước cặp để kiểm tra đường kính.|Đọc "ca-li-pơ" — thước cặp hai càng như "cá" kẹp.
+🔬|micrometer|/maɪˈkrɑːmɪtər/|n.|panme, thước vi kế|Measure the thickness with a micrometer.|Đo độ dày bằng panme.|Micro (siêu nhỏ) + meter (đo) — đo cực nhỏ, chính xác.
+⏲️|gauge|/ɡeɪdʒ/|n.|đồng hồ đo|The pressure gauge reads 5 bar.|Đồng hồ áp suất chỉ 5 bar.|Đọc "gây-dz" — kim đồng hồ "gây" chú ý khi vượt vạch đỏ.
+📐|dimension|/dɪˈmenʃn/|n.|kích thước|Check the dimensions on the drawing.|Kiểm tra kích thước trên bản vẽ.|Phim "3D" = three dimensions — ba chiều kích thước.
+🧱|assemble|/əˈsembl/|v.|lắp ráp|We assemble the engine on line 2.|Chúng tôi lắp ráp động cơ ở dây chuyền 2.|Đọc "ơ-xem-bồ" — lắp xong "xem" bộ máy hoàn chỉnh.
+🪚|disassemble|/ˌdɪsəˈsembl/|v.|tháo rời|Disassemble the pump for cleaning.|Tháo rời máy bơm để vệ sinh.|Dis (ngược lại) + assemble (lắp) = tháo ra.
+🛠️|install|/ɪnˈstɔːl/|v.|lắp đặt|They will install the new machine tomorrow.|Họ sẽ lắp đặt máy mới vào ngày mai.|Như "install" phần mềm — đặt vào máy rồi dùng.
+🔁|replace|/rɪˈpleɪs/|v.|thay thế|Replace the filter every month.|Thay bộ lọc mỗi tháng.|Re (lại) + place (đặt) — đặt cái mới lại vào chỗ cũ.
+🎚️|adjust|/əˈdʒʌst/|v.|điều chỉnh|Adjust the belt tension.|Điều chỉnh độ căng dây curoa.|Đọc "ơ-dzất" — chỉnh "dzừa" vặn cho vừa khít.
+🎯|calibrate|/ˈkælɪbreɪt/|v.|hiệu chuẩn|Calibrate the scale every six months.|Hiệu chuẩn cân mỗi sáu tháng.|Đọc "ca-li-brết" — chỉnh đúng "ca-li" (cỡ) cho chuẩn.
+💪|tighten|/ˈtaɪtn/|v.|siết chặt|Tighten the bolts in a cross pattern.|Siết bu lông theo hình chéo.|"Tight" = chặt — "tai-tần": siết chặt đến "tận" cùng.
+👐|loosen|/ˈluːsn/|v.|nới lỏng|Loosen the nut counterclockwise.|Nới lỏng đai ốc ngược chiều kim đồng hồ.|"Loose" = lỏng — "lu-sần": vặn ra cho lỏng lẻo.
+🩹|repair|/rɪˈper/|v.|sửa chữa|Can you repair this motor today?|Bạn có thể sửa động cơ này hôm nay không?|Re (lại) + pair (cặp) — ghép cặp lại cho chạy như cũ.
+🚨|breakdown|/ˈbreɪkdaʊn/|n.|sự hỏng hóc|The breakdown stopped production for two hours.|Sự cố hỏng máy làm ngừng sản xuất hai giờ.|Break (vỡ) + down (sập) — máy vỡ sập, đứng hình.
+🧩|component|/kəmˈpoʊnənt/|n.|linh kiện, bộ phận|Order the missing component today.|Đặt mua linh kiện còn thiếu hôm nay.|Đọc "cầm-pâu-nần" — từng mảnh "cầm" lên ghép thành máy.
+🎛️|switch|/swɪtʃ/|n.|công tắc|Turn off the main switch.|Tắt công tắc chính.|Đọc "xuých" — bật công tắc kêu "xuých" một cái.
+⚡|fuse|/fjuːz/|n.|cầu chì|The fuse blew again.|Cầu chì lại bị nổ.|Đọc "phiu-z" — cầu chì cháy kêu "phiu" một tiếng.
+🤖|robot|/ˈroʊbɑːt/|n.|rô bốt|The robot welds the car body.|Rô bốt hàn thân xe.|Đọc "râu-bát" — gần "rô bốt" tiếng Việt.
+🚜|forklift|/ˈfɔːrklɪft/|n.|xe nâng|Only trained staff can drive the forklift.|Chỉ nhân viên được đào tạo mới được lái xe nâng.|Fork (cái nĩa) + lift (nâng) — xe dùng "nĩa" nâng hàng.
+🏗️|crane|/kreɪn/|n.|cần cẩu|The crane lifts the heavy mold.|Cần cẩu nâng khuôn nặng.|"Crane" cũng là con sếu — cổ dài như cần cẩu.
+⬆️|hoist|/hɔɪst/|n.|tời, palăng|Use the hoist to lift the motor.|Dùng palăng để nâng động cơ.|Đọc "hoi-st" — kéo palăng mệt "hoi" cả người.
+🪑|workbench|/ˈwɜːrkbentʃ/|n.|bàn thao tác|Keep your workbench clean.|Giữ bàn thao tác sạch sẽ.|Work (làm việc) + bench (băng ghế) — ghế bàn để làm việc.
+🛡️|guard|/ɡɑːrd/|n.|tấm che an toàn|Never remove the safety guard.|Không bao giờ tháo tấm che an toàn.|"Guard" = bảo vệ — tấm che là "bảo vệ" tay bạn.
+⏰|alarm|/əˈlɑːrm/|n.|chuông báo động|The alarm sounds when the door opens.|Chuông báo kêu khi cửa mở.|Đọc "ơ-lám" — báo động kêu "la" ầm xưởng.
+🕹️|lever|/ˈlevər/|n.|cần gạt, đòn bẩy|Pull the lever to stop the machine.|Kéo cần gạt để dừng máy.|Đọc "le-vơ" — cần gạt "lé" sang một bên.
+🚪|handle|/ˈhændl/|n.|tay cầm|Hold the handle with both hands.|Cầm tay cầm bằng cả hai tay.|"Hand" = bàn tay — handle là chỗ đặt tay.
+🔘|knob|/nɑːb/|n.|núm vặn|Turn the knob to set the speed.|Xoay núm vặn để chỉnh tốc độ.|Chữ "k" câm, đọc "náp" — núm tròn như cái "nắp".
+🛞|axle|/ˈæksl/|n.|trục bánh xe|The cart axle is bent.|Trục bánh xe đẩy bị cong.|Đọc "ắc-xồ" — giống "ắc" (trục) trong tiếng thợ Việt.
+🤝|coupling|/ˈkʌplɪŋ/|n.|khớp nối trục|The coupling connects the motor and pump.|Khớp nối nối động cơ với máy bơm.|"Couple" = cặp đôi — khớp nối ghép hai trục thành "cặp".
+🚲|sprocket|/ˈsprɑːkɪt/|n.|bánh xích, nhông|The chain runs on the sprocket.|Xích chạy trên bánh nhông.|Đọc "xprót-kít" — nhông xe đạp quay "kít kít".
+🚿|nozzle|/ˈnɑːzl/|n.|vòi phun, đầu phun|The spray nozzle is blocked.|Vòi phun bị tắc.|Đọc "ná-zồ" — vòi phun như cái mũi (nose) phụt khí.
+📎|bracket|/ˈbrækɪt/|n.|giá đỡ, ke|Mount the sensor on the bracket.|Gắn cảm biến lên giá đỡ.|Đọc "brác-kít" — giá đỡ hình chữ L như dấu ngoặc "[ ]".
+🚪|hinge|/hɪndʒ/|n.|bản lề|Oil the door hinge.|Tra dầu vào bản lề cửa.|Đọc "hin-dz" — bản lề khô kêu "hin hít" khi mở cửa.
+📌|rivet|/ˈrɪvɪt/|n.|đinh tán|Fix the plate with four rivets.|Cố định tấm bằng bốn đinh tán.|Đọc "ri-vít" — giống "vít" nhưng tán chặt, không vặn ra được.
+🧶|thread|/θred/|n.|ren (ốc)|The bolt thread is damaged.|Ren bu lông bị hỏng.|"Thread" = sợi chỉ — ren ốc xoắn như sợi chỉ quấn quanh.
+⏹️|shutdown|/ˈʃʌtdaʊn/|n.|sự dừng máy|Plan a shutdown for maintenance.|Lên kế hoạch dừng máy để bảo trì.|Shut (đóng) + down (xuống) — tắt máy, đóng hết lại.
