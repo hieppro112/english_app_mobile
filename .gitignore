@@ -1,0 +1,18 @@
+# Gradle / build
+.gradle/
+.kotlin/
+build/
+*/build/
+
+# Local config (SDK path per machine)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Build artifacts
+*.apk
+*.aab
+captures/
