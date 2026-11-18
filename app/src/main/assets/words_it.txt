@@ -1,0 +1,100 @@
+🖥️|server|/ˈsɝːvɚ/|n.|máy chủ|Our web server went down last night.|Máy chủ web của chúng tôi bị sập tối qua.|"Serve" là phục vụ, "server" là người phục vụ — máy chủ phục vụ dữ liệu cho mọi máy.
+🗄️|database|/ˈdeɪtəbeɪs/|n.|cơ sở dữ liệu|Please back up the database before the update.|Vui lòng sao lưu cơ sở dữ liệu trước khi cập nhật.|data (dữ liệu) + base (nền) — nền tảng chứa dữ liệu, như một nhà kho khổng lồ.
+🚀|deploy|/dɪˈplɔɪ/|v.|triển khai|We will deploy the new version on Friday.|Chúng tôi sẽ triển khai phiên bản mới vào thứ Sáu.|Nghĩa gốc là "dàn quân ra trận" — tung code lên máy chủ thật như đưa quân ra chiến trường.
+🐞|bug|/bʌɡ/|n.|lỗi phần mềm|We found a bug in the login page.|Chúng tôi tìm thấy một lỗi ở trang đăng nhập.|"Bug" nghĩa gốc là con bọ — tưởng tượng con bọ chui vào máy tính làm hỏng chương trình.
+🧱|firewall|/ˈfaɪɚwɔːl/|n.|tường lửa|The firewall blocked the suspicious connection.|Tường lửa đã chặn kết nối đáng ngờ.|fire (lửa) + wall (tường) — bức tường lửa chắn kẻ xấu xâm nhập mạng.
+📶|bandwidth|/ˈbændwɪdθ/|n.|băng thông|Video calls use a lot of bandwidth.|Các cuộc gọi video tốn nhiều băng thông.|band (dải) + width (độ rộng) — đường ống càng rộng, dữ liệu chảy càng nhanh.
+💾|backup|/ˈbækʌp/|n.|bản sao lưu|We make a full backup every night.|Chúng tôi tạo bản sao lưu đầy đủ mỗi đêm.|back (phía sau) + up — luôn có "hàng dự phòng phía sau" khi dữ liệu bị mất.
+🔑|password|/ˈpæswɝːd/|n.|mật khẩu|Change your password every three months.|Hãy đổi mật khẩu ba tháng một lần.|pass (đi qua) + word (từ) — "từ để được đi qua" cổng gác, như mật khẩu thời xưa.
+🌐|network|/ˈnetwɝːk/|n.|mạng|The office network is slow today.|Mạng văn phòng hôm nay chậm.|net (lưới) + work — các máy tính đan vào nhau như tấm lưới đánh cá.
+📡|router|/ˈraʊtɚ/|n.|bộ định tuyến|Restart the router if the Wi-Fi stops working.|Hãy khởi động lại router nếu Wi-Fi ngừng hoạt động.|route (tuyến đường) + er — "cảnh sát giao thông" chỉ đường cho dữ liệu.
+⚙️|compile|/kəmˈpaɪl/|v.|biên dịch|The code takes five minutes to compile.|Mã nguồn mất năm phút để biên dịch.|com (cùng) + pile (đống) — gom cả đống code lại thành một chương trình chạy được.
+🔍|debug|/diːˈbʌɡ/|v.|gỡ lỗi|I spent all morning debugging this function.|Tôi mất cả buổi sáng để gỡ lỗi hàm này.|de (loại bỏ) + bug (con bọ) — cầm kính lúp bắt bọ ra khỏi chương trình.
+📦|repository|/rɪˈpɑːzətɔːri/|n.|kho mã nguồn|Push your changes to the repository.|Hãy đẩy các thay đổi của bạn lên kho mã nguồn.|Gọi tắt "repo", đọc gần giống "rề-pô" — như cái kho (depot) chứa code của cả nhóm.
+☁️|cloud|/klaʊd/|n.|điện toán đám mây|We store all files in the cloud.|Chúng tôi lưu tất cả tệp trên đám mây.|Dữ liệu "bay lên mây" — không nằm trong máy bạn mà ở máy chủ xa xôi.
+🔐|encryption|/ɪnˈkrɪpʃən/|n.|mã hóa|Encryption protects customer data from hackers.|Mã hóa bảo vệ dữ liệu khách hàng khỏi tin tặc.|en (đưa vào) + crypt (hầm bí mật) — nhốt dữ liệu vào hầm kín có khóa.
+💿|software|/ˈsɔːftwer/|n.|phần mềm|Please install the latest software on your PC.|Vui lòng cài phần mềm mới nhất lên máy tính.|soft (mềm) + ware (đồ) — thứ "mềm" không sờ được, ngược với hardware.
+🔩|hardware|/ˈhɑːrdwer/|n.|phần cứng|The hardware needs to be replaced next year.|Phần cứng cần được thay thế vào năm sau.|hard (cứng) + ware (đồ vật) — thứ cứng cầm nắm được như ốc vít, bo mạch.
+⬇️|download|/ˈdaʊnloʊd/|v.|tải xuống|Download the report from the shared folder.|Hãy tải báo cáo xuống từ thư mục chung.|down (xuống) + load (tải) — dữ liệu rơi từ trên mây xuống máy bạn.
+⬆️|upload|/ˈʌploʊd/|v.|tải lên|Upload your documents to the system.|Hãy tải tài liệu của bạn lên hệ thống.|up (lên) + load (tải) — đẩy hàng từ máy bạn lên mây.
+🧩|install|/ɪnˈstɔːl/|v.|cài đặt|IT will install the printer driver for you.|Bộ phận IT sẽ cài driver máy in cho bạn.|in (vào) + stall (chỗ đứng) — đặt phần mềm vào đúng chỗ của nó trong máy.
+🔄|update|/ʌpˈdeɪt/|v.|cập nhật|Update Windows before the end of the day.|Hãy cập nhật Windows trước cuối ngày.|up + date (ngày) — đưa máy lên "ngày mới nhất".
+⏫|upgrade|/ʌpˈɡreɪd/|v.|nâng cấp|We need to upgrade the server's memory.|Chúng tôi cần nâng cấp bộ nhớ máy chủ.|up + grade (cấp, lớp) — cho máy "lên lớp", lên đời.
+🧭|browser|/ˈbraʊzɚ/|n.|trình duyệt|Clear your browser cache and try again.|Hãy xóa bộ nhớ đệm trình duyệt và thử lại.|browse (lướt xem) + er — công cụ để lướt web, như la bàn dẫn đường trên mạng.
+🏠|website|/ˈwebsaɪt/|n.|trang web|The company website was updated yesterday.|Trang web công ty đã được cập nhật hôm qua.|web (mạng nhện) + site (địa điểm) — một "ngôi nhà" trên mạng nhện internet.
+📧|email|/ˈiːmeɪl/|n.|thư điện tử|I will send you the details by email.|Tôi sẽ gửi chi tiết cho bạn qua email.|e (electronic - điện tử) + mail (thư) — lá thư chạy bằng điện.
+⌨️|keyboard|/ˈkiːbɔːrd/|n.|bàn phím|My keyboard is not responding.|Bàn phím của tôi không phản hồi.|key (phím) + board (tấm bảng) — tấm bảng gắn đầy phím.
+📺|monitor|/ˈmɑːnɪtɚ/|n.|màn hình|I need a second monitor for my work.|Tôi cần thêm một màn hình để làm việc.|Đọc gần giống "mò-ni-tơ" — tấm màn để "mò" xem mọi thứ; còn có nghĩa giám sát.
+🖨️|printer|/ˈprɪntɚ/|n.|máy in|The printer on the third floor is jammed.|Máy in ở tầng ba bị kẹt giấy.|print (in) + er (máy) — cái máy chuyên đi in.
+💻|laptop|/ˈlæptɑːp/|n.|máy tính xách tay|Bring your laptop to the meeting.|Hãy mang máy tính xách tay đến cuộc họp.|lap (đùi) + top (bên trên) — máy tính đặt trên đùi.
+🗃️|storage|/ˈstɔːrɪdʒ/|n.|dung lượng lưu trữ|We are running out of storage on the server.|Máy chủ của chúng tôi sắp hết dung lượng lưu trữ.|store (kho, cửa hàng) + age — nhà kho chứa dữ liệu, đầy là phải dọn.
+🧠|memory|/ˈmeməri/|n.|bộ nhớ|This laptop has 16 gigabytes of memory.|Máy tính này có 16 gigabyte bộ nhớ.|Đọc gần giống "mem-mơ-ri" — trí nhớ của máy, như bộ não người.
+🔲|processor|/ˈprɑːsesɚ/|n.|bộ xử lý|The new processor is much faster.|Bộ xử lý mới nhanh hơn nhiều.|process (xử lý) + or — "bộ não tính toán" của máy, gọi tắt là CPU.
+🦠|virus|/ˈvaɪrəs/|n.|vi-rút máy tính|Scan the USB drive for viruses first.|Hãy quét vi-rút ổ USB trước.|Giống "vi-rút" tiếng Việt — lây từ máy này sang máy khác như bệnh cúm.
+👾|malware|/ˈmælwer/|n.|phần mềm độc hại|The antivirus detected malware on his laptop.|Phần mềm diệt vi-rút phát hiện mã độc trên máy anh ấy.|mal (xấu, ác) + ware (phần mềm) — phần mềm mang ý đồ xấu.
+🕵️|hacker|/ˈhækɚ/|n.|tin tặc|A hacker tried to access our system.|Một tin tặc đã cố truy cập hệ thống của chúng tôi.|hack (chặt, chém) — kẻ "chặt phá" để đột nhập hệ thống người khác.
+🚪|login|/ˈlɔːɡɪn/|n.|đăng nhập|Your login will expire after 30 minutes.|Phiên đăng nhập của bạn sẽ hết hạn sau 30 phút.|log (ghi sổ) + in (vào) — ghi tên vào sổ để được mở cửa vào.
+👤|username|/ˈjuːzɚneɪm/|n.|tên đăng nhập|Enter your username and password.|Nhập tên đăng nhập và mật khẩu của bạn.|user (người dùng) + name (tên) — cái tên định danh của người dùng.
+🪪|account|/əˈkaʊnt/|n.|tài khoản|Your account has been locked.|Tài khoản của bạn đã bị khóa.|Đọc gần giống "ơ-cao" — mỗi người có một "thẻ căn cước" riêng trong hệ thống.
+✅|permission|/pɚˈmɪʃən/|n.|quyền truy cập|You don't have permission to open this folder.|Bạn không có quyền mở thư mục này.|permit (cho phép) + sion — tấm giấy phép để được vào khu vực.
+👑|administrator|/ədˈmɪnɪstreɪtɚ/|n.|quản trị viên|Contact the administrator to reset your account.|Liên hệ quản trị viên để đặt lại tài khoản.|Gọi tắt "admin" — ông vua của hệ thống, nắm mọi quyền.
+🔌|cable|/ˈkeɪbəl/|n.|dây cáp|The network cable is unplugged.|Dây cáp mạng bị rút ra.|Đọc giống "cáp" tiếng Việt — sợi dây nối các thiết bị với nhau.
+📻|wireless|/ˈwaɪɚləs/|adj.|không dây|The meeting room has wireless internet.|Phòng họp có internet không dây.|wire (dây) + less (không có) — không cần dây vẫn kết nối được.
+🎛️|switch|/swɪtʃ/|n.|bộ chuyển mạch|Connect all PCs to the network switch.|Kết nối tất cả máy tính vào switch mạng.|Nghĩa gốc là "công tắc" — hộp chia đường cho nhiều máy cùng cắm vào mạng.
+📠|modem|/ˈmoʊdem/|n.|bộ điều giải|The modem connects us to the internet.|Modem kết nối chúng ta với internet.|mo (modulate) + dem (demodulate) — biến đổi tín hiệu qua lại; đọc "mô-đem".
+🏷️|domain|/doʊˈmeɪn/|n.|tên miền|We registered a new domain for the project.|Chúng tôi đã đăng ký tên miền mới cho dự án.|Đọc gần giống "đô-mên" — "địa chỉ nhà" của website, ví dụ google.com.
+📜|protocol|/ˈproʊtəkɑːl/|n.|giao thức|HTTPS is a secure protocol.|HTTPS là một giao thức an toàn.|Nghĩa gốc "nghi thức ngoại giao" — luật lệ để các máy "nói chuyện" lịch sự với nhau.
+🧮|algorithm|/ˈælɡərɪðəm/|n.|thuật toán|This algorithm sorts the data quickly.|Thuật toán này sắp xếp dữ liệu nhanh chóng.|Đặt theo tên nhà toán học Al-Khwarizmi — công thức từng bước để giải bài toán.
+👨‍💻|code|/koʊd/|n.|mã nguồn|Please review my code before merging.|Vui lòng xem lại mã của tôi trước khi gộp.|Đọc gần giống "cốt" — mã nguồn là "cốt lõi" làm nên phần mềm.
+📋|program|/ˈproʊɡræm/|n.|chương trình|This program runs every morning at 8 a.m.|Chương trình này chạy lúc 8 giờ mỗi sáng.|pro (trước) + gram (viết) — viết sẵn trước các bước để máy làm theo.
+📱|application|/ˌæplɪˈkeɪʃən/|n.|ứng dụng|The application crashed after the update.|Ứng dụng bị treo sau khi cập nhật.|Gọi tắt "app" — từ apply (áp dụng): phần mềm áp dụng cho việc cụ thể.
+🖱️|interface|/ˈɪntɚfeɪs/|n.|giao diện|The new interface is easy to use.|Giao diện mới rất dễ sử dụng.|inter (ở giữa) + face (mặt) — "bộ mặt" đứng giữa người và máy.
+🏗️|framework|/ˈfreɪmwɝːk/|n.|khung phát triển|We use a popular framework for our website.|Chúng tôi dùng một framework phổ biến cho trang web.|frame (khung) + work — bộ khung nhà dựng sẵn, chỉ việc xây thêm tường.
+📚|library|/ˈlaɪbreri/|n.|thư viện mã|Import the library at the top of the file.|Hãy nhập thư viện ở đầu tệp.|Như thư viện sách — kho đoạn code viết sẵn, cứ mượn ra dùng.
+🔤|variable|/ˈveriəbəl/|n.|biến|Give each variable a clear name.|Hãy đặt tên rõ ràng cho mỗi biến.|vary (thay đổi) + able (có thể) — chiếc hộp có dán nhãn, đồ bên trong thay đổi được.
+🔧|function|/ˈfʌŋkʃən/|n.|hàm|This function returns the total price.|Hàm này trả về tổng giá.|Đọc gần giống "phăng-sần" — một cỗ máy nhỏ: cho đầu vào, nhận kết quả ra.
+📝|script|/skrɪpt/|n.|tập lệnh|I wrote a script to automate the report.|Tôi đã viết một tập lệnh để tự động hóa báo cáo.|Nghĩa gốc là "kịch bản" — máy diễn đúng từng câu theo kịch bản bạn viết.
+⬛|terminal|/ˈtɝːmɪnəl/|n.|cửa sổ dòng lệnh|Open the terminal and type the command.|Mở cửa sổ dòng lệnh và gõ lệnh.|Nghĩa gốc "nhà ga" — màn hình đen là "ga" nơi bạn ra lệnh trực tiếp cho máy.
+💬|command|/kəˈmænd/|n.|lệnh|Type this command to restart the service.|Gõ lệnh này để khởi động lại dịch vụ.|Liên tưởng "commander" (chỉ huy) — bạn là chỉ huy, máy tính là lính.
+❓|query|/ˈkwɪri/|n.|truy vấn|This query is too slow on large tables.|Truy vấn này quá chậm trên các bảng lớn.|Đọc gần giống "quơ-ri", họ hàng với "question" — câu hỏi gửi tới cơ sở dữ liệu.
+📊|table|/ˈteɪbəl/|n.|bảng dữ liệu|Add a new column to the customer table.|Thêm một cột mới vào bảng khách hàng.|Như mặt bàn kẻ ô vuông — dữ liệu xếp ngay ngắn theo hàng và cột.
+🏭|backend|/ˈbækend/|n.|phần phía máy chủ|The backend handles all payment logic.|Phần backend xử lý toàn bộ logic thanh toán.|back (phía sau) + end — "nhà bếp" phía sau nhà hàng, khách không nhìn thấy.
+🎨|frontend|/ˈfrʌntend/|n.|phần giao diện người dùng|She builds the frontend with React.|Cô ấy xây dựng phần frontend bằng React.|front (phía trước) + end — "phòng ăn" trang trí đẹp, khách nhìn thấy và chạm vào.
+🎯|endpoint|/ˈendpɔɪnt/|n.|điểm cuối API|This endpoint returns a list of users.|Endpoint này trả về danh sách người dùng.|end (cuối) + point (điểm) — "trạm dừng" nơi yêu cầu API đến lấy dữ liệu.
+🧪|test|/test/|v.|kiểm thử|Please test the feature before release.|Vui lòng kiểm thử tính năng trước khi phát hành.|Đọc giống "tét" — như "test nhanh" trong ống nghiệm, thử xem có lỗi không.
+🎁|release|/rɪˈliːs/|n.|bản phát hành|The next release is scheduled for May.|Bản phát hành tiếp theo dự kiến vào tháng Năm.|re + lease (thả ra) — mở hộp quà, thả phần mềm mới ra cho người dùng.
+🔢|version|/ˈvɝːʒən/|n.|phiên bản|Which version of Excel are you using?|Bạn đang dùng phiên bản Excel nào?|Đọc gần giống "vơ-giần" — mỗi lần sửa ra một "bản" mới: v1, v2, v3.
+🩹|patch|/pætʃ/|n.|bản vá|Install the security patch immediately.|Hãy cài bản vá bảo mật ngay lập tức.|Nghĩa gốc là "miếng vá" quần áo — dán băng cá nhân lên lỗ thủng phần mềm.
+💥|crash|/kræʃ/|v.|bị sập|The system crashed during the backup.|Hệ thống bị sập trong lúc sao lưu.|Âm thanh "rầm!" khi va chạm — chương trình đâm sầm và tắt ngúm.
+🔁|reboot|/ˌriːˈbuːt/|v.|khởi động lại|Reboot your computer to finish the update.|Khởi động lại máy để hoàn tất cập nhật.|re (lại) + boot (khởi động, nghĩa gốc là chiếc ủng) — "đá" máy chạy lại lần nữa.
+🌙|shutdown|/ˈʃʌtdaʊn/|n.|tắt máy|There will be a server shutdown on Sunday.|Sẽ có đợt tắt máy chủ vào Chủ nhật.|shut (đóng) + down (xuống) — đóng sập cửa, máy đi ngủ.
+⚡|cache|/kæʃ/|n.|bộ nhớ đệm|Clear the cache to see the new changes.|Xóa bộ nhớ đệm để thấy thay đổi mới.|Đọc giống "két" — cái két nhỏ cất sẵn đồ hay dùng để lấy ra cho nhanh.
+🐢|latency|/ˈleɪtənsi/|n.|độ trễ|High latency makes video calls choppy.|Độ trễ cao làm cuộc gọi video bị giật.|late (trễ) + ncy — dữ liệu đến "muộn", bò chậm như rùa.
+🪆|virtualization|/ˌvɝːtʃuələˈzeɪʃən/|n.|ảo hóa|Virtualization lets one server run many systems.|Ảo hóa cho phép một máy chủ chạy nhiều hệ thống.|virtual (ảo) + ization (hóa) — một máy thật chứa nhiều máy ảo như búp bê Nga lồng nhau.
+🚢|container|/kənˈteɪnɚ/|n.|vùng chứa ứng dụng|Each service runs in its own container.|Mỗi dịch vụ chạy trong container riêng.|Như thùng "công-te-nơ" trên tàu — đóng gói ứng dụng, mang đi đâu cũng chạy.
+🍇|cluster|/ˈklʌstɚ/|n.|cụm máy chủ|The database runs on a three-node cluster.|Cơ sở dữ liệu chạy trên một cụm ba nút.|Nghĩa gốc là "chùm" như chùm nho — nhiều máy chủ chụm lại làm việc chung.
+🎭|proxy|/ˈprɑːksi/|n.|máy chủ trung gian|All traffic goes through the company proxy.|Mọi lưu lượng đều đi qua proxy của công ty.|Nghĩa gốc "người đại diện" — đeo mặt nạ đi làm thay bạn, giấu mặt thật của bạn.
+🕳️|vulnerability|/ˌvʌlnɚəˈbɪləti/|n.|lỗ hổng bảo mật|The team fixed a critical vulnerability.|Nhóm đã sửa một lỗ hổng nghiêm trọng.|vulner (vết thương, tiếng Latin) + ability — chỗ dễ bị đánh trúng, như gót chân Asin.
+🛂|authentication|/ɔːˌθentɪˈkeɪʃən/|n.|xác thực|We use two-factor authentication for email.|Chúng tôi dùng xác thực hai lớp cho email.|authentic (thật, chính chủ) — chứng minh "đúng là tôi" như kiểm tra hộ chiếu.
+🎟️|token|/ˈtoʊkən/|n.|mã thông báo|The access token expires after one hour.|Mã truy cập hết hạn sau một giờ.|Như đồng xu chơi game hay tấm vé — cầm "token" mới được vào hệ thống.
+📓|log|/lɔːɡ/|n.|nhật ký hệ thống|Check the error log for details.|Kiểm tra nhật ký lỗi để biết chi tiết.|Nghĩa gốc "sổ hải trình" của thuyền trưởng — máy ghi lại mọi chuyện đã xảy ra.
+🚨|alert|/əˈlɝːt/|n.|cảnh báo|We got an alert that the disk is full.|Chúng tôi nhận cảnh báo ổ đĩa đã đầy.|Đọc gần giống "ơ-lớt" — còi hú "ơ kìa!" báo có chuyện bất thường.
+🎫|ticket|/ˈtɪkɪt/|n.|phiếu yêu cầu hỗ trợ|Please create a ticket for your issue.|Vui lòng tạo phiếu yêu cầu cho vấn đề của bạn.|Nghĩa gốc là "vé" — như lấy số thứ tự, chờ IT xử lý lần lượt.
+🆘|helpdesk|/ˈhelpdesk/|n.|bộ phận hỗ trợ|Call the helpdesk if you can't log in.|Gọi bộ phận hỗ trợ nếu bạn không đăng nhập được.|help (giúp) + desk (bàn) — cái bàn nơi mọi người đến xin giúp đỡ.
+🛠️|troubleshoot|/ˈtrʌbəlʃuːt/|v.|khắc phục sự cố|Let me troubleshoot the connection problem.|Để tôi khắc phục sự cố kết nối.|trouble (rắc rối) + shoot (bắn) — "bắn hạ" từng rắc rối một.
+🎚️|configure|/kənˈfɪɡjɚ/|v.|cấu hình|Configure the email settings on your phone.|Hãy cấu hình cài đặt email trên điện thoại.|con + figure (hình dạng) — sắp đặt máy thành "hình dạng" mình muốn; gọi tắt "config".
+♻️|restore|/rɪˈstɔːr/|v.|khôi phục|We restored the files from last week's backup.|Chúng tôi đã khôi phục tệp từ bản sao lưu tuần trước.|re (lại) + store (cất kho) — lấy lại đồ đã cất trong kho ra dùng.
+🚚|migrate|/ˈmaɪɡreɪt/|v.|chuyển đổi hệ thống|We will migrate the data to the new server.|Chúng tôi sẽ chuyển dữ liệu sang máy chủ mới.|Như chim di cư (migrate) — cả đàn dữ liệu bay sang "nhà" mới.
+🔗|integrate|/ˈɪntəɡreɪt/|v.|tích hợp|We need to integrate the app with SAP.|Chúng tôi cần tích hợp ứng dụng với SAP.|Họ hàng với "integer" (số nguyên) — ghép các mảnh thành một khối nguyên vẹn.
+🤖|automate|/ˈɔːtəmeɪt/|v.|tự động hóa|Let's automate this daily report.|Hãy tự động hóa báo cáo hằng ngày này.|auto (tự) như "ô-tô" tự chạy — để robot làm thay việc lặp đi lặp lại.
+📈|scalable|/ˈskeɪləbəl/|adj.|dễ mở rộng|The system must be scalable for more users.|Hệ thống phải dễ mở rộng cho nhiều người dùng hơn.|scale (quy mô, bậc thang) + able — có thể leo thang, lớn dần lên.
+📴|offline|/ˌɔːfˈlaɪn/|adj.|ngoại tuyến|The server is offline for maintenance.|Máy chủ đang ngoại tuyến để bảo trì.|off (tắt) + line (đường dây) — rút khỏi đường dây, mất kết nối.
+🟢|online|/ˌɑːnˈlaɪn/|adj.|trực tuyến|All systems are back online now.|Tất cả hệ thống đã trực tuyến trở lại.|on (bật) + line (đường dây) — đang "trên dây", đèn xanh sáng.
+🛡️|secure|/sɪˈkjʊr/|adj.|an toàn, bảo mật|Use a secure connection when working remotely.|Hãy dùng kết nối an toàn khi làm việc từ xa.|Liên tưởng "security" (bảo vệ) — có chú bảo vệ đứng canh, yên tâm.
+🥫|spam|/spæm/|n.|thư rác|Don't open spam emails from unknown senders.|Đừng mở thư rác từ người gửi lạ.|Tên một loại thịt hộp quảng cáo tràn lan — thư rác nhiều như thịt hộp.
+🎣|phishing|/ˈfɪʃɪŋ/|n.|lừa đảo qua mạng|Report any phishing email to IT immediately.|Hãy báo ngay email lừa đảo cho IT.|Đọc giống "fishing" (câu cá) — kẻ gian thả mồi để câu mật khẩu của bạn.
+📎|attachment|/əˈtætʃmənt/|n.|tệp đính kèm|The attachment is too large to send.|Tệp đính kèm quá lớn để gửi.|attach (gắn vào) + ment — cái kẹp giấy gắn tài liệu vào thư.
+📁|folder|/ˈfoʊldɚ/|n.|thư mục|Save the file in the shared folder.|Lưu tệp vào thư mục chung.|fold (gấp) + er — tấm bìa gấp đôi để kẹp giấy tờ.
+📄|file|/faɪl/|n.|tệp tin|I can't open this file.|Tôi không mở được tệp này.|Đọc giống "phai" — mỗi file như một tờ hồ sơ số nằm trong thư mục.
+⏩|shortcut|/ˈʃɔːrtkʌt/|n.|phím tắt|Ctrl+C is a shortcut for copy.|Ctrl+C là phím tắt để sao chép.|short (ngắn) + cut (cắt) — cắt ngắn đường đi, đi đường tắt.
+🖼️|desktop|/ˈdesktɑːp/|n.|màn hình nền|Don't save files on your desktop.|Đừng lưu tệp trên màn hình nền.|desk (bàn) + top (mặt trên) — mặt bàn làm việc ảo trên máy tính.
