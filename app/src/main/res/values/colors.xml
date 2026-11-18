@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="accent">#F59E0B</color>
+    <color name="bg">#F5F6FB</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text">#1F2937</color>
+    <color name="text_sub">#6B7280</color>
+    <color name="good">#16A34A</color>
+    <color name="bad">#DC2626</color>
+    <color name="hard">#EA580C</color>
+    <color name="easy">#2563EB</color>
+    <color name="tip_bg">#FEF3C7</color>
+    <color name="cat_it">#6366F1</color>
+    <color name="cat_daily">#10B981</color>
+    <color name="cat_machine">#F97316</color>
+</resources>

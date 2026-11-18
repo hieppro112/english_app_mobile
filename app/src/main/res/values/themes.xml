@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Vocab" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="35" xmlns:tools="http://schemas.android.com/tools">true</item>
+    </style>
+
+    <style name="Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CardBox">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card</item>
+        <item name="strokeWidth">0dp</item>
+    </style>
+</resources>

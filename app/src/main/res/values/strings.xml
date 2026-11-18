@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Học Từ Vựng</string>
+    <string name="widget_name">Từ vựng ngẫu nhiên</string>
+    <string name="widget_desc">Hiện một từ vựng ngẫu nhiên trên màn hình chính</string>
+</resources>
